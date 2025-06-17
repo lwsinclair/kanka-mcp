@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ymgeva-kanka-mcp-badge.png)](https://mseep.ai/app/ymgeva-kanka-mcp)
+
 # Kanka MCP - Model Context Protocol Server for Kanka API
 
 This project provides an MCP (Model Context Protocol) server for interacting with the [Kanka](https://kanka.io) API. It allows AI assistants to manage campaigns, characters, locations, posts, notes, and journals in your Kanka worldbuilding projects.
